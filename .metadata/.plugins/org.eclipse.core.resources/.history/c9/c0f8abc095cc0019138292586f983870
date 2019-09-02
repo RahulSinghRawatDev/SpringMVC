@@ -1,0 +1,7 @@
+package com.learning.app.ws.service;
+
+import com.learning.app.ws.ui.shared.dto.UserDto;
+
+public interface UserService {
+   UserDto createUser(UserDto userDto);	
+}

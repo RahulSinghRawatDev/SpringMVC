@@ -1,0 +1,5 @@
+package com.learning.app.ws.security;
+
+public class AuthenticationFilter {
+
+}

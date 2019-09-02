@@ -1,0 +1,7 @@
+package com.learning.app.ws.service.impl;
+
+import com.learning.app.ws.service.UserService;
+
+public class UserServiceImpl implements UserService {
+
+}

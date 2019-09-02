@@ -1,0 +1,70 @@
+package com.learning.app.ws.ui.controller;
+import org.springframework.beans.BeanUtils;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+import com.learning.app.ws.service.UserService;
+// RestController -  annotation tells that this class is controller class
+// @RequestMapping - this method provides request file
+import com.learning.app.ws.ui.model.response.UserResponse;
+import com.learning.app.ws.ui.shared.dto.UserDto;
+import com.learning.app.ws.ui.model.request.*;
+@RestController 
+@RequestMapping("users") // http://localhost:8080/users
+public class UserController {
+
+	@Autowired
+	UserService userService;
+	
+	//get request
+	@GetMapping(path="/{id}")	
+	public UserResponse getUser(@PathVariable String id) {
+		System.out.println("<<<<<Request>>>>>"+id);
+
+		UserResponse response = new UserResponse();
+		UserDto createdUser = userService.getUserById(id);
+	
+		BeanUtils.copyProperties(createdUser, response);
+		System.out.println("");
+		System.out.println("<<<<Response>>>>"+response);
+		
+		return response;	
+
+	}
+	
+	//post request
+	@PostMapping
+	public UserResponse createUser(@RequestBody UserDatailsRequestModel userDetails)  {
+		System.out.println("<<<<<Request>>>>>"+userDetails.toString());
+	
+		UserResponse response = new UserResponse();
+		
+		UserDto userDto = new UserDto();
+		BeanUtils.copyProperties(userDetails, userDto);
+		
+		UserDto createdUser = userService.createUser(userDto);
+		BeanUtils.copyProperties(createdUser, response);
+		System.out.println("");
+		System.out.println("<<<<Response>>>>"+response);
+		
+		return response;		
+	}
+	
+	//put request
+	@PutMapping
+	public String updateUser() {
+		return "put user called";
+	}
+	
+	//delete request
+	@DeleteMapping
+	public String deleteUser() {
+		return "delete user called";
+	}
+}

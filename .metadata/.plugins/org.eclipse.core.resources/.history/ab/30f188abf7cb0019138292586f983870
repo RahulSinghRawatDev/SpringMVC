@@ -1,0 +1,5 @@
+package com.learning.app.ws.ui.model.response;
+
+public class UserResponse {
+
+}

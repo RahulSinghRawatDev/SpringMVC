@@ -1,0 +1,57 @@
+package com.learning.app.ws.service.impl;
+
+import javax.validation.constraints.Email;
+
+import org.springframework.beans.BeanUtils;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.core.userdetails.UserDetails;
+import org.springframework.security.core.userdetails.UsernameNotFoundException;
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
+import org.springframework.stereotype.Service;
+import com.learning.app.ws.UserRepository;
+import com.learning.app.ws.io.entity.UserEntity;
+import com.learning.app.ws.service.UserService;
+import com.learning.app.ws.ui.shared.Utils;
+import com.learning.app.ws.ui.shared.dto.UserDto;
+
+@Service
+public class UserServiceImpl implements UserService {
+
+	@Autowired
+	UserRepository userRepository;
+	
+	@Autowired
+	Utils utils;
+	
+	@Autowired
+	BCryptPasswordEncoder bCryptPasswordEncoder;
+	
+	@Override
+	public UserDto createUser(UserDto userDto) {
+		
+		if(userRepository.findByEmail(userDto.getEmail())!=null) throw new RuntimeException("Record Already Exist");
+		
+		UserEntity entity = new UserEntity();		
+		BeanUtils.copyProperties(userDto, entity);
+		
+		entity.setUserId(utils.generateUserId(30));		
+		entity.setEncryptedPassword(bCryptPasswordEncoder.encode(userDto.getPassword()));
+		
+		
+		UserEntity userEntity = userRepository.save(entity);
+	  
+		UserDto returnValue = new UserDto();
+		BeanUtils.copyProperties(userEntity, returnValue);
+		
+		return returnValue;
+	}
+
+	
+	@Override
+	public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
+		// TODO Auto-generated method stub
+		UserEntity entity = userRepository.findByEmail(username);
+		if(entity==null) throws new UsernameNotFoundException(username);
+		return null;
+	}
+}

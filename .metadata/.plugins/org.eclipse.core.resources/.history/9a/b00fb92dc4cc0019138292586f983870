@@ -1,0 +1,11 @@
+package com.learning.app.ws.exceptions;
+
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.ControllerAdvice;
+import org.springframework.web.context.request.WebRequest;
+
+@ControllerAdvice
+public class AppExceptionHandler {
+
+	public ResponseEntity<Object> handleUserServiceException(UserServiceExceptions ex,WebRequest request)
+}

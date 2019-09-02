@@ -1,0 +1,20 @@
+package com.learning.app.ws.ui.shared;
+
+import java.util.Random;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Utils {
+
+	public String generateUserId(int length) {
+		return generateRandomString();
+	}
+
+	private String generateRandomString() {
+		StringBuilder returnValue = new StringBuilder(6);	
+		int num = new Random().nextInt(900000) + 100000;
+        returnValue.append(num);		
+		return new String(returnValue);
+	}
+}

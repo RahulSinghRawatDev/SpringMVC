@@ -1,0 +1,11 @@
+package com.learning.app.ws.security;
+
+import org.springframework.security.authentication.AuthenticationManager;
+import org.springframework.security.web.authentication.www.BasicAuthenticationFilter;
+
+public class AutherizationFIlter extends BasicAuthenticationFilter{
+	
+	public AutherizationFIlter(AuthenticationManager authenticationManager) {
+		super(authenticationManager);
+	}
+}

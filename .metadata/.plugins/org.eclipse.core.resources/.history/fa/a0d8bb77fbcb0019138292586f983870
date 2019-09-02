@@ -1,0 +1,50 @@
+package com.learning.app.ws.ui.controller;
+
+import org.springframework.beans.BeanUtils;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+// RestController -  annotation tells that this class is controller class
+// @RequestMapping - this method provides request file
+import com.learning.app.ws.ui.model.response.UserResponse;
+import com.learning.app.ws.ui.shared.dto.UserDto;
+
+@RestController 
+@RequestMapping("users") // http://localhost:8080/users
+public class UserController {
+
+	//get request
+	@GetMapping	
+	public String getUser() {
+		return "get user called";
+	}
+	
+	//post request
+	@PostMapping
+	public <UserDetailsRequestModel> UserResponse createUser(@RequestBody UserDetailsRequestModel userDetails)  {
+		UserResponse response = new UserResponse();
+		UserDto userDto = new UserDto();
+		BeanUtils.copyProperties(userDetails, userDto);
+		
+		UserDto createdUser = userService.createUser(userDto);
+		BeanUtils.copyProperties(userDetails, response);
+		
+		return null;		
+	}
+	
+	//put request
+	@PutMapping
+	public String updateUser() {
+		return "put user called";
+	}
+	
+	//delete request
+	@DeleteMapping
+	public String deleteUser() {
+		return "delete user called";
+	}
+}

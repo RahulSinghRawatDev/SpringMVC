@@ -1,0 +1,5 @@
+package com.learning.app.ws.io.entity;
+
+public class UserEntity {
+
+}

@@ -1,0 +1,34 @@
+package com.learning.app.ws.service.impl;
+
+import org.springframework.beans.BeanUtils;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import com.learning.app.ws.UserRepository;
+import com.learning.app.ws.io.entity.UserEntity;
+import com.learning.app.ws.service.UserService;
+import com.learning.app.ws.ui.shared.dto.UserDto;
+
+@Service
+public class UserServiceImpl implements UserService {
+
+	@Autowired
+	UserRepository userRepository;
+	
+	@Override
+	public UserDto createUser(UserDto userDto) {
+		
+		UserEntity entity = new UserEntity();		
+		BeanUtils.copyProperties(userDto, entity);
+		
+		entity.setEncryptedPassword("test");
+		entity.setUserId("testUserId");
+		
+		UserEntity userEntity = userRepository.save(entity);
+	  
+		UserDto returnValue = new UserDto();
+		BeanUtils.copyProperties(userEntity, returnValue);
+		
+		return returnValue;
+	}
+
+}

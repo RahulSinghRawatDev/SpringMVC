@@ -1,0 +1,3 @@
+spring.datasource.data-username=root
+spring.datasource.password=password
+spring.datasource.url=jdbc:mysql://localhost/learning 
