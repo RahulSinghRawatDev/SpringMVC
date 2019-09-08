@@ -17,10 +17,9 @@ public class MobileAppWsApplication extends SpringBootServletInitializer {
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
 		// TODO Auto-generated method stub
-		return builder.sources(MobileAppWsApplication.class);
-		//	return super.configure(builder);
+		return super.configure(builder);
 	}
- 
+
 	public static void main(String[] args) {
 		SpringApplication.run(MobileAppWsApplication.class, args);
 	}
