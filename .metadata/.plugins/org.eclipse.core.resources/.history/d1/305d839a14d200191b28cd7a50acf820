@@ -1,0 +1,5 @@
+package com.learning.app.ws.service;
+
+public class AddressService {
+
+}

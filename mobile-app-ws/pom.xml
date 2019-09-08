@@ -47,8 +47,8 @@
 			<version>0.6.0</version>
 		</dependency>
 
-    	<dependency>
- 			<groupId>org.springframework.boot</groupId>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-tomcat</artifactId>
 			<scope>provided</scope>
 		</dependency>
@@ -71,7 +71,15 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+	<dependency>
+		<groupId>org.modelmapper</groupId>
+		<artifactId>modelmapper</artifactId>
+		<version>2.3.0</version>
+	</dependency>
+
 	</dependencies>
+
 
 	<build>
 		<plugins>
@@ -81,8 +89,8 @@
 			</plugin>
 		</plugins>
 	</build>
-	
-	
-	
+
+
+
 
 </project>

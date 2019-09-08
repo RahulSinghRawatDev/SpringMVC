@@ -1,0 +1,12 @@
+package com.learning.app.ws.ui.shared.dto;
+
+public class AddressDTO {
+private long id;
+private long city;
+private long country;
+private long streetName;
+private long postalCode;
+private long type;
+private UserDto userDetails;
+
+}

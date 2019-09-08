@@ -1,0 +1,68 @@
+package com.learning.app.ws.ui.shared.dto;
+
+public class AddressDTO {
+	private long id;
+	private long city;
+	private long country;
+	private long streetName;
+	private long postalCode;
+	private long type;
+	private UserDto userDetails;
+
+	public long getId() {
+		return id;
+	}
+
+	public void setId(long id) {
+		this.id = id;
+	}
+
+	public long getCity() {
+		return city;
+	}
+
+	public void setCity(long city) {
+		this.city = city;
+	}
+
+	public long getCountry() {
+		return country;
+	}
+
+	public void setCountry(long country) {
+		this.country = country;
+	}
+
+	public long getStreetName() {
+		return streetName;
+	}
+
+	public void setStreetName(long streetName) {
+		this.streetName = streetName;
+	}
+
+	public long getPostalCode() {
+		return postalCode;
+	}
+
+	public void setPostalCode(long postalCode) {
+		this.postalCode = postalCode;
+	}
+
+	public long getType() {
+		return type;
+	}
+
+	public void setType(long type) {
+		this.type = type;
+	}
+
+	public UserDto getUserDetails() {
+		return userDetails;
+	}
+
+	public void setUserDetails(UserDto userDetails) {
+		this.userDetails = userDetails;
+	}
+
+}

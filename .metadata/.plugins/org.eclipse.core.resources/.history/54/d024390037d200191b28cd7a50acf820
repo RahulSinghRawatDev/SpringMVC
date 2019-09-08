@@ -1,0 +1,28 @@
+package com.learning.app.ws.service.impl;
+
+import static org.junit.jupiter.api.Assertions.*;
+import static org.mockito.Mockito.when;
+import static org.mockito.ArgumentMatcher.anyString;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import org.mockito.Mock;
+
+import com.learning.app.ws.io.repository.UserRepository;
+
+class UserServiceImpTest {
+
+	@Mock
+	UserRepository userRepository;
+	
+	@BeforeEach
+	void setUp() throws Exception {
+	}
+
+	@Test
+	void testGetUser() {
+		when(userRepository.findByEmail(anyString())).thenReturn(null);
+		fail("Not yet implemented");
+	}
+
+}

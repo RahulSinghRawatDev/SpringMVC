@@ -1,10 +1,13 @@
 package com.learning.app.ws.ui.model.response;
 
+import java.util.List;
+
 public class UserResponse {
 	private String userId;
 	private String firstName;
 	private String lastName;
 	private String email;
+	private List<AddressesResponse> addresses;
 
 	public String getUserId() {
 		return userId;
@@ -36,6 +39,14 @@ public class UserResponse {
 
 	public void setEmail(String email) {
 		this.email = email;
+	}
+
+	public List<AddressesResponse> getAddresses() {
+		return addresses;
+	}
+
+	public void setAddresses(List<AddressesResponse> addresses) {
+		this.addresses = addresses;
 	}
 
 	@Override

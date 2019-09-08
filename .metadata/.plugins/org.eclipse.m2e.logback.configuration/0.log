@@ -4263,3 +4263,596 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.fasterxml
 2019-09-08 06:31:49,742 [Worker-391: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of mobile-app-ws
 2019-09-08 06:31:49,742 [Worker-391: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for mobile-app-ws
 2019-09-08 06:31:49,746 [Worker-391: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 09:58:54,156 [Worker-431: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 09:58:54,182 [Worker-431: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 09:58:54,191 [Worker-431: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 09:58:54,193 [Worker-431: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 09:58:54,193 [Worker-431: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 09:59:05,503 [Worker-431: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 09:59:05,503 [Worker-431: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 09:59:05,504 [Worker-431: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 09:59:05,506 [Worker-431: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 09:59:05,506 [Worker-431: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 10:03:55,182 [Worker-436: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 10:03:55,183 [Worker-436: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 10:03:55,184 [Worker-436: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 10:03:55,187 [Worker-436: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 10:03:55,187 [Worker-436: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 11:27:43,617 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:27:43,617 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 11:27:43,618 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 11:27:43,621 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:27:43,621 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 11:29:14,608 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:29:14,608 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 11:29:14,614 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 11:29:14,616 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:29:14,616 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 11:29:22,236 [Worker-459: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:29:22,236 [Worker-459: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 11:29:22,237 [Worker-459: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 11:29:22,241 [Worker-459: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:29:22,241 [Worker-459: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 11:29:40,334 [Worker-459: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:29:40,335 [Worker-459: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 11:29:40,336 [Worker-459: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 11:29:40,341 [Worker-459: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:29:40,341 [Worker-459: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 11:32:57,795 [Worker-457: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:32:57,795 [Worker-457: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 11:32:57,797 [Worker-457: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 11:32:57,804 [Worker-457: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:32:57,805 [Worker-457: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 11:33:34,125 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:33:34,125 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 11:33:34,126 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 11:33:34,130 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:33:34,131 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 11:34:21,148 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:34:21,149 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 11:34:21,150 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 11:34:21,152 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:34:21,152 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 11:34:39,543 [Worker-458: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:34:39,543 [Worker-458: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 11:34:39,544 [Worker-458: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 11:34:39,558 [Worker-458: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:34:39,558 [Worker-458: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 11:35:14,203 [Worker-457: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:35:14,204 [Worker-457: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 11:35:14,205 [Worker-457: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 11:35:14,209 [Worker-457: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:35:14,209 [Worker-457: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 11:37:05,902 [Worker-460: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.learning.app.ws:mobile-app-ws:0.0.1-SNAPSHOT @ /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/pom.xml.
+2019-09-08 11:37:07,163 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:37:07,178 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 11:37:07,178 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 11:37:07,181 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:37:07,181 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 11:37:07,182 [Worker-460: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of mobile-app-ws
+2019-09-08 11:37:07,182 [Worker-460: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for mobile-app-ws
+2019-09-08 11:37:07,187 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:37:21,351 [Worker-463: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for mobile-app-ws
+2019-09-08 11:37:22,677 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:37:22,678 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 11:37:22,693 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 11:37:22,696 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:37:22,696 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 11:37:22,697 [Worker-461: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of mobile-app-ws
+2019-09-08 11:37:22,698 [Worker-461: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for mobile-app-ws
+2019-09-08 11:37:22,704 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:37:36,757 [Worker-461: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.learning.app.ws:mobile-app-ws:0.0.1-SNAPSHOT @ /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/pom.xml.
+2019-09-08 11:37:38,558 [Worker-461: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/2.3.0/modelmapper-2.3.0.pom
+2019-09-08 11:37:39,453 [Worker-461: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/2.3.0/modelmapper-2.3.0.pom
+2019-09-08 11:37:39,785 [Worker-461: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper-parent/2.3.0/modelmapper-parent-2.3.0.pom
+2019-09-08 11:37:40,194 [Worker-461: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper-parent/2.3.0/modelmapper-parent-2.3.0.pom
+2019-09-08 11:37:40,711 [Worker-461: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/2.3.0/modelmapper-2.3.0.jar
+2019-09-08 11:37:48,385 [Worker-461: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/2.3.0/modelmapper-2.3.0.jar
+2019-09-08 11:37:49,035 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:37:49,037 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 11:37:49,038 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 11:37:49,040 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:37:49,040 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 11:37:49,040 [Worker-461: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of mobile-app-ws
+2019-09-08 11:37:49,041 [Worker-461: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for mobile-app-ws
+2019-09-08 11:37:49,044 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:37:51,909 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:37:51,909 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 11:37:51,919 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 11:37:51,922 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:37:51,922 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 11:37:53,304 [Worker-465: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/2.3.0/modelmapper-2.3.0-sources.jar
+2019-09-08 11:37:55,455 [Worker-465: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/2.3.0/modelmapper-2.3.0-sources.jar
+2019-09-08 11:37:55,566 [Worker-465: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.modelmapper:modelmapper:2.3.0
+2019-09-08 11:37:55,768 [Worker-464: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:37:55,768 [Worker-464: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 11:37:55,768 [Worker-464: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 11:37:55,770 [Worker-464: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:37:55,770 [Worker-464: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 11:39:35,875 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:39:35,875 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 11:39:35,877 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 11:39:35,880 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:39:35,880 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 11:41:04,908 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:41:04,911 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 11:41:04,912 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 11:41:04,915 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:41:04,916 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 11:41:08,394 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:41:08,395 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 11:41:08,395 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 11:41:08,397 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:41:08,397 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 11:42:46,618 [Worker-463: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:42:46,618 [Worker-463: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 11:42:46,619 [Worker-463: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 11:42:46,622 [Worker-463: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:42:46,622 [Worker-463: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 11:57:38,645 [Worker-477: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:57:38,645 [Worker-477: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 11:57:38,646 [Worker-477: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 11:57:38,650 [Worker-477: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:57:38,650 [Worker-477: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 11:58:16,527 [Worker-476: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:58:16,527 [Worker-476: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 11:58:16,528 [Worker-476: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 11:58:16,531 [Worker-476: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 11:58:16,531 [Worker-476: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:02:39,172 [Worker-477: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:02:39,173 [Worker-477: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:02:39,174 [Worker-477: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:02:39,178 [Worker-477: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:02:39,178 [Worker-477: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:02:52,778 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:02:52,779 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:02:52,780 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:02:52,782 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:02:52,783 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:03:08,906 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:03:08,906 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:03:08,908 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:03:08,910 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:03:08,911 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:03:12,958 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:03:12,959 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:03:12,960 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:03:12,962 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:03:12,962 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:05:55,111 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:05:55,113 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:05:55,114 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:05:55,116 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:05:55,116 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:07:49,704 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:07:49,704 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:07:49,705 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:07:49,708 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:07:49,708 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:08:49,647 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:08:49,648 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:08:49,649 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:08:49,653 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:08:49,653 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:09:45,617 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:09:45,618 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:09:45,619 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:09:45,621 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:09:45,621 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:10:53,133 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:10:53,133 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:10:53,135 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:10:53,137 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:10:53,137 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:12:47,060 [Worker-477: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:12:47,061 [Worker-477: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:12:47,062 [Worker-477: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:12:47,067 [Worker-477: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:12:47,067 [Worker-477: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:15:36,718 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:15:36,718 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:15:36,722 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:15:36,725 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:15:36,725 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:17:05,285 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:17:05,285 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:17:05,286 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:17:05,288 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:17:05,289 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:18:43,918 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:18:43,919 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:18:43,920 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:18:43,921 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:18:43,921 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:18:44,990 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:18:44,990 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:18:44,991 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:18:44,993 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:18:44,994 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:18:49,212 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:18:49,212 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:18:49,213 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:18:49,214 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:18:49,215 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:20:45,157 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:20:45,157 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:20:45,157 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:20:45,160 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:20:45,160 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:20:48,880 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:20:48,880 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:20:48,881 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:20:48,882 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:20:48,883 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:22:11,341 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:22:11,342 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:22:11,342 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:22:11,344 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:22:11,344 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:22:26,560 [Worker-482: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:22:26,560 [Worker-482: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:22:26,561 [Worker-482: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:22:26,562 [Worker-482: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:22:26,562 [Worker-482: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:25:39,565 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:25:39,566 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:25:39,567 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:25:39,569 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:25:39,569 [Worker-476: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:27:27,116 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:27:27,117 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:27:27,117 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:27:27,119 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:27:27,119 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:27:50,264 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:27:50,264 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:27:50,265 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:27:50,268 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:27:50,268 [Worker-481: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:30:11,229 [Worker-487: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:30:11,230 [Worker-487: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:30:11,231 [Worker-487: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:30:11,233 [Worker-487: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:30:11,233 [Worker-487: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:32:53,998 [Worker-482: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:32:53,999 [Worker-482: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:32:54,000 [Worker-482: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:32:54,002 [Worker-482: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:32:54,002 [Worker-482: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:38:20,366 [Worker-482: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:38:20,367 [Worker-482: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:38:20,368 [Worker-482: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:38:20,372 [Worker-482: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:38:20,372 [Worker-482: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:38:42,652 [Worker-482: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:38:42,653 [Worker-482: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:38:42,654 [Worker-482: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:38:42,655 [Worker-482: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:38:42,655 [Worker-482: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:40:12,150 [Worker-491: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:40:12,150 [Worker-491: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:40:12,151 [Worker-491: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:40:12,154 [Worker-491: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:40:12,154 [Worker-491: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:42:08,129 [Worker-491: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:42:08,130 [Worker-491: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:42:08,132 [Worker-491: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:42:08,134 [Worker-491: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:42:08,134 [Worker-491: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:42:41,998 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:42:41,998 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:42:41,999 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:42:42,001 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:42:42,001 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:43:07,635 [Worker-490: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:43:07,636 [Worker-490: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:43:07,637 [Worker-490: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:43:07,639 [Worker-490: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:43:07,639 [Worker-490: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:44:29,164 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:44:29,165 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:44:29,165 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:44:29,167 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:44:29,167 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:47:54,468 [Worker-490: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:47:54,468 [Worker-490: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:47:54,469 [Worker-490: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:47:54,471 [Worker-490: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:47:54,471 [Worker-490: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:51:20,877 [Worker-490: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:51:20,877 [Worker-490: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:51:20,878 [Worker-490: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:51:20,880 [Worker-490: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:51:20,880 [Worker-490: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 12:54:16,476 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:54:16,477 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 12:54:16,477 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 12:54:16,479 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 12:54:16,479 [Worker-484: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 13:21:29,072 [Worker-504: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:21:29,073 [Worker-504: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 13:21:29,074 [Worker-504: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 13:21:29,076 [Worker-504: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:21:29,076 [Worker-504: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 13:23:55,445 [Worker-504: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:23:55,445 [Worker-504: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 13:23:55,446 [Worker-504: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 13:23:55,448 [Worker-504: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:23:55,448 [Worker-504: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 13:28:31,632 [Worker-504: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for mobile-app-ws
+2019-09-08 13:28:32,124 [Worker-505: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:28:32,125 [Worker-505: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 13:28:32,125 [Worker-505: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 13:28:32,128 [Worker-505: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:28:32,128 [Worker-505: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 13:28:32,128 [Worker-505: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of mobile-app-ws
+2019-09-08 13:28:32,128 [Worker-505: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for mobile-app-ws
+2019-09-08 13:28:32,132 [Worker-505: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:28:39,051 [Worker-506: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:28:39,052 [Worker-506: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 13:28:39,052 [Worker-506: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 13:28:39,053 [Worker-506: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:28:39,054 [Worker-506: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 13:37:25,201 [Worker-505: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:37:25,202 [Worker-505: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 13:37:25,203 [Worker-505: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 13:37:25,206 [Worker-505: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:37:25,206 [Worker-505: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 13:37:25,682 [Worker-500: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:37:25,682 [Worker-500: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 13:37:25,683 [Worker-500: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 13:37:25,685 [Worker-500: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:37:25,686 [Worker-500: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 13:40:33,093 [Worker-506: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:40:33,094 [Worker-506: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 13:40:33,094 [Worker-506: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 13:40:33,096 [Worker-506: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:40:33,096 [Worker-506: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 13:45:17,363 [Worker-511: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for mobile-app-ws
+2019-09-08 13:45:17,790 [Worker-511: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:45:17,790 [Worker-511: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 13:45:17,791 [Worker-511: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 13:45:17,793 [Worker-511: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:45:17,794 [Worker-511: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 13:45:17,794 [Worker-511: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of mobile-app-ws
+2019-09-08 13:45:17,794 [Worker-511: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for mobile-app-ws
+2019-09-08 13:45:17,799 [Worker-511: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:46:46,178 [Worker-511: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:46:46,178 [Worker-511: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 13:46:46,188 [Worker-511: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 13:46:46,191 [Worker-511: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:46:46,191 [Worker-511: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 13:57:35,035 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:57:35,036 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 13:57:35,037 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 13:57:35,039 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:57:35,039 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 13:57:50,667 [Worker-520: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for mobile-app-ws
+2019-09-08 13:57:51,070 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:57:51,071 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 13:57:51,071 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 13:57:51,073 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:57:51,073 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 13:57:51,074 [Worker-516: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of mobile-app-ws
+2019-09-08 13:57:51,074 [Worker-516: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for mobile-app-ws
+2019-09-08 13:57:51,077 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:57:56,527 [Worker-520: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:57:56,527 [Worker-520: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 13:57:56,528 [Worker-520: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 13:57:56,530 [Worker-520: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 13:57:56,530 [Worker-520: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 14:01:56,531 [Worker-525: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:01:56,532 [Worker-525: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 14:01:56,532 [Worker-525: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 14:01:56,534 [Worker-525: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:01:56,534 [Worker-525: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 14:09:04,215 [Worker-519: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:09:04,215 [Worker-519: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 14:09:04,216 [Worker-519: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 14:09:04,217 [Worker-519: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:09:04,217 [Worker-519: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 14:10:57,991 [Worker-526: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:10:57,992 [Worker-526: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 14:10:57,993 [Worker-526: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 14:10:57,995 [Worker-526: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:10:57,995 [Worker-526: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 14:11:50,238 [Worker-519: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:11:50,238 [Worker-519: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 14:11:50,239 [Worker-519: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 14:11:50,241 [Worker-519: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:11:50,241 [Worker-519: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 14:12:34,749 [Worker-525: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:12:34,750 [Worker-525: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 14:12:34,750 [Worker-525: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 14:12:34,752 [Worker-525: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:12:34,752 [Worker-525: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 14:13:41,562 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:13:41,563 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 14:13:41,564 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 14:13:41,566 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:13:41,566 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 14:14:57,258 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:14:57,259 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 14:14:57,260 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 14:14:57,263 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:14:57,263 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 14:15:14,684 [Worker-524: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:15:14,684 [Worker-524: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 14:15:14,685 [Worker-524: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 14:15:14,687 [Worker-524: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:15:14,687 [Worker-524: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 14:15:32,044 [Worker-525: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:15:32,044 [Worker-525: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 14:15:32,045 [Worker-525: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 14:15:32,048 [Worker-525: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:15:32,048 [Worker-525: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 14:16:29,585 [Worker-519: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:16:29,585 [Worker-519: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 14:16:29,586 [Worker-519: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 14:16:29,588 [Worker-519: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:16:29,590 [Worker-519: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 14:18:41,483 [Worker-527: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:18:41,483 [Worker-527: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 14:18:41,484 [Worker-527: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 14:18:41,486 [Worker-527: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:18:41,486 [Worker-527: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 14:21:50,755 [Worker-524: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:21:50,756 [Worker-524: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 14:21:50,757 [Worker-524: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 14:21:50,759 [Worker-524: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:21:50,759 [Worker-524: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 14:22:55,769 [Worker-525: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:22:55,769 [Worker-525: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 14:22:55,770 [Worker-525: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 14:22:55,772 [Worker-525: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:22:55,772 [Worker-525: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 14:23:35,420 [Worker-526: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:23:35,420 [Worker-526: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 14:23:35,421 [Worker-526: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 14:23:35,423 [Worker-526: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:23:35,424 [Worker-526: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 14:23:50,012 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:23:50,013 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 14:23:50,014 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 14:23:50,018 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:23:50,018 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 14:25:12,956 [Worker-526: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:25:12,956 [Worker-526: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 14:25:12,957 [Worker-526: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 14:25:12,958 [Worker-526: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:25:12,958 [Worker-526: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 14:26:42,344 [Worker-519: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:26:42,345 [Worker-519: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 14:26:42,345 [Worker-519: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 14:26:42,347 [Worker-519: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:26:42,347 [Worker-519: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 14:26:49,651 [Worker-524: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:26:49,651 [Worker-524: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 14:26:49,652 [Worker-524: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 14:26:49,654 [Worker-524: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:26:49,654 [Worker-524: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 14:28:27,275 [Worker-524: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:28:27,276 [Worker-524: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 14:28:27,277 [Worker-524: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 14:28:27,279 [Worker-524: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:28:27,279 [Worker-524: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 14:30:21,328 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:30:21,330 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 14:30:21,330 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 14:30:21,332 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 14:30:21,332 [Worker-516: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 16:59:21,975 [Worker-538: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 16:59:21,976 [Worker-538: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 16:59:21,977 [Worker-538: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 16:59:21,979 [Worker-538: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 16:59:21,979 [Worker-538: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 17:00:51,811 [Worker-542: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:00:51,811 [Worker-542: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 17:00:51,813 [Worker-542: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 17:00:51,815 [Worker-542: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:00:51,815 [Worker-542: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 17:05:13,886 [Worker-543: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:05:13,887 [Worker-543: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 17:05:13,887 [Worker-543: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 17:05:13,898 [Worker-543: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:05:13,898 [Worker-543: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 17:08:23,259 [Worker-541: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:08:23,260 [Worker-541: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 17:08:23,261 [Worker-541: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 17:08:23,264 [Worker-541: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:08:23,264 [Worker-541: Launching mobile-app-ws app] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 17:16:22,077 [Worker-555: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:16:22,077 [Worker-555: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 17:16:22,078 [Worker-555: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 17:16:22,080 [Worker-555: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:16:22,080 [Worker-555: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 17:17:50,585 [Worker-557: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:17:50,586 [Worker-557: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 17:17:50,586 [Worker-557: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 17:17:50,588 [Worker-557: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:17:50,588 [Worker-557: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 17:23:15,915 [Worker-555: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:23:15,915 [Worker-555: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 17:23:15,916 [Worker-555: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 17:23:15,917 [Worker-555: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:23:15,917 [Worker-555: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 17:25:18,008 [Worker-545: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:25:18,009 [Worker-545: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 17:25:18,009 [Worker-545: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 17:25:18,014 [Worker-545: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:25:18,014 [Worker-545: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 17:27:55,092 [Worker-559: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:27:55,092 [Worker-559: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 17:27:55,092 [Worker-559: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 17:27:55,094 [Worker-559: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:27:55,094 [Worker-559: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 17:28:48,963 [Worker-545: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:28:48,963 [Worker-545: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 17:28:48,963 [Worker-545: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 17:28:48,965 [Worker-545: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:28:48,965 [Worker-545: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 17:30:29,042 [Worker-561: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:30:29,042 [Worker-561: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 17:30:29,043 [Worker-561: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 17:30:29,044 [Worker-561: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:30:29,044 [Worker-561: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 17:30:34,068 [Worker-560: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:30:34,068 [Worker-560: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 17:30:34,069 [Worker-560: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 17:30:34,071 [Worker-560: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:30:34,071 [Worker-560: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 17:35:00,089 [Worker-558: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:35:00,090 [Worker-558: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 17:35:00,090 [Worker-558: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 17:35:00,092 [Worker-558: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:35:00,092 [Worker-558: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 17:35:46,183 [Worker-559: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:35:46,184 [Worker-559: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 17:35:46,184 [Worker-559: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 17:35:46,187 [Worker-559: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 17:35:46,187 [Worker-559: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 18:06:36,133 [Worker-575: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 18:06:36,134 [Worker-575: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 18:06:36,135 [Worker-575: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 18:06:36,137 [Worker-575: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 18:06:36,137 [Worker-575: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 18:13:31,423 [Worker-580: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 18:13:31,423 [Worker-580: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-09-08 18:13:31,424 [Worker-580: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 18:13:31,426 [Worker-580: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 18:13:31,426 [Worker-580: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 18:15:59,075 [Worker-581: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 18:15:59,075 [Worker-581: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 18:15:59,076 [Worker-581: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 18:15:59,077 [Worker-581: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 18:15:59,077 [Worker-581: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 18:17:31,892 [Worker-578: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 18:17:31,892 [Worker-578: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 18:17:31,892 [Worker-578: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 18:17:31,893 [Worker-578: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 18:17:31,893 [Worker-578: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 18:18:19,461 [Worker-578: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 18:18:19,462 [Worker-578: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 18:18:19,462 [Worker-578: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 18:18:19,464 [Worker-578: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 18:18:19,464 [Worker-578: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 18:18:33,429 [Worker-585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 18:18:33,429 [Worker-585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 18:18:33,429 [Worker-585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 18:18:33,430 [Worker-585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 18:18:33,431 [Worker-585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 18:18:48,156 [Worker-578: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 18:18:48,156 [Worker-578: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 18:18:48,156 [Worker-578: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 18:18:48,158 [Worker-578: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 18:18:48,158 [Worker-578: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 18:21:18,805 [Worker-578: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 18:21:18,805 [Worker-578: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 18:21:18,805 [Worker-578: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 18:21:18,808 [Worker-578: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 18:21:18,808 [Worker-578: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
+2019-09-08 18:21:52,314 [Worker-584: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 18:21:52,315 [Worker-584: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 18:21:52,315 [Worker-584: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-09-08 18:21:52,317 [Worker-584: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-09-08 18:21:52,317 [Worker-584: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/abhimanyu/Documents/workspace-sts-3.9.9.RELEASE/mobile-app-ws/src/test/resources
